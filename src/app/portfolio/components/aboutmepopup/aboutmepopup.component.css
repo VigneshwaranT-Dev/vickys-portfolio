@@ -1,0 +1,10 @@
+.custom-btn{
+  --bs-btn-hover-border-color: #3D3144 !important;
+  --bs-btn-color: #3D3144 !important;
+  --bs-btn-hover-bg: #3D3144 !important;
+  --bs-btn-border-color: #3D3144 !important;
+  --bs-border-radius: 20vh;
+  --bs-btn-padding-x: 1.5rem;
+  --bs-btn-active-bg: #3D3144 !important;
+  --bs-btn-active-border-color: #3D3144 !important;
+}
